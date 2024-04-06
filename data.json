@@ -1,0 +1,43 @@
+[
+    {
+      "id": null,
+      "title": "The Dark Side of the Moon",
+      "artist": "Pink Floyd",
+      "year": "1973",
+      "genre": "Progressive rock",
+      "tracks": ["Speak to Me", "Breathe", "On the Run", "Time", "The Great Gig in the Sky", "Money", "Us and Them", "Any Colour You Like", "Brain Damage", "Eclipse"]
+    },
+    {
+        "id": "1",
+        "title": "The Dark Side of the Moon",
+        "artist": "",
+        "year": "1973",
+        "genre": "Progressive rock",
+        "tracks": ["Speak to Me", "Breathe", "On the Run", "Time", "The Great Gig in the Sky", "Money", "Us and Them", "Any Colour You Like", "Brain Damage", "Eclipse"]
+      },
+    {
+      "id": "2",
+      "title": "Thriller",
+      "artist": "Michael Jackson",
+      "year": "1982",
+      "genre": "Pop, post-disco, funk",
+      "tracks": ["Wanna Be Startin' Somethin'", "Baby Be Mine", "The Girl Is Mine", "Thriller", "Beat It", "Billie Jean", "Human Nature", "P.Y.T. (Pretty Young Thing)", "The Lady in My Life"]
+    },
+    {
+      "id": "3",
+      "title": "Abbey Road",
+      "artist": "The Beatles",
+      "year": "1969",
+      "genre": "Rock",
+      "tracks": ["Come Together", "Something", "Maxwell's Silver Hammer", "Oh! Darling", "Octopus's Garden", "I Want You (She's So Heavy)", "Here Comes the Sun", "Because", "You Never Give Me Your Money", "Sun King"]
+    },
+    {
+      "id": "4",
+      "title": "Back in Black",
+      "artist": "AC/DC",
+      "year": "1980",
+      "genre": "Hard rock",
+      "tracks": ["Hells Bells", "Shoot to Thrill", "What Do You Do for Money Honey", "Givin the Dog a Bone", "Let Me Put My Love into You", "Back in Black", "You Shook Me All Night Long", "Have a Drink on Me", "Shake a Leg", "Rock and Roll Ain't Noise Pollution"]
+    }
+  ]
+  
